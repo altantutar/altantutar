@@ -11,3 +11,5 @@ Previously Senior Partner Engineer at **NEAR Protocol** and Co-Founder & CEO at 
 ### Featured Projects
 
 **[Synapse Daemon](https://github.com/altantutar/synapse-daemon)** — Ambient intelligence for your desktop. Passively watches your screen via Screenpipe, detects repetitive workflows using Claude, and auto-generates automations. Ships as a native app with daemon, CLI, and agent integration.
+
+**[Idea Terminal](https://github.com/altantutar/idea-terminal)** — Terminal-native startup idea generator with a multi-agent evaluation pipeline. Six AI agents generate, stress-test, build-plan, distribute, simulate user reactions, and judge startup concepts. Includes an optional Claude Check agent that assesses whether Claude can one-shot the idea as a defensibility filter.
